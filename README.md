@@ -1,1 +1,1 @@
-# educational-machine-learning
+# educational-machine-learning-for-kids:
